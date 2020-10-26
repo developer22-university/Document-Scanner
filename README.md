@@ -1,2 +1,2 @@
 # Document-Scanner
-A Document Scanner Built using OpenCV+Python.
+A Car Plate Number Recogonizer Built using OpenCV+Python.
