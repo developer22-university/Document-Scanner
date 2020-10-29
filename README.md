@@ -1,2 +1,12 @@
 # Number-Recogonizer using OpenCV
 A Car Plate Number Recogonizer Built using OpenCV+Python.
+## 1. original image
+https://github.com/developer22-university/OpenCV_NumberRecogonizer/blob/main/output/Screenshot%20(231).png
+## 2. 
+https://github.com/developer22-university/OpenCV_NumberRecogonizer/blob/main/output/Screenshot%20(232).png
+## 3.
+https://github.com/developer22-university/OpenCV_NumberRecogonizer/blob/main/output/Screenshot%20(233).png
+## 4.
+https://github.com/developer22-university/OpenCV_NumberRecogonizer/blob/main/output/Screenshot%20(234).png
+## 5.
+https://github.com/developer22-university/OpenCV_NumberRecogonizer/blob/main/output/Screenshot%20(235).png
